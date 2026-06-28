@@ -1,0 +1,26 @@
+The Impossible Boy Podcast: 
+The Journey of The Magus 
+
+https://www.youtube.com/@theimpossibleboy13
+
+---
+
+#ALQC Copies
+
+PhilPapers.org
+
+1. https://philpapers.org/rec/AHNTAC
+2. https://https://philpapers.org/archive/AHNTAC.pdf
+
+SSRN.com
+1. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6589998
+
+Zenodo.org
+1. https://zenodo.org/records/20298702
+
+Github.com
+1. https://github.com/MareSerenitatis12
+
+HuggingFace:
+1. https://huggingface.co/datasets/MareSerenitatis12/ALQC-The-Unified-Q-State-Framework
+
